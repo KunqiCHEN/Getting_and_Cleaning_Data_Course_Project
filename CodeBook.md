@@ -1,4 +1,4 @@
-outcome:
+##outcome:
 column 2: activity 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
@@ -16,7 +16,7 @@ The set of variables that were estimated from these signals are:
 Mean(): Mean value
 Std(): Standard deviation
 
-process:
+##process:
 X_train.txt was saved as train.x;
 y_train.txt was saved as train. Y;
 subject_train.txt was saved as train.subject;
